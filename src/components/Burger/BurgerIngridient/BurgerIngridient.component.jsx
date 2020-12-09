@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
-import BurgerBuilder from "../../../containers/BurgerBuilder/BurgerBuilder.component";
 
 import "./BuergerIngridient.styles.scss";
 
